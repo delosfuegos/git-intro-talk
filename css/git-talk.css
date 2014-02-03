@@ -2,3 +2,8 @@ h1.first-slide {
   text-transform: none;
   font-size: 3.5em;
 }
+
+div.caption {
+  font-size: 0.7em;
+  margin-bottom: 0;
+}
