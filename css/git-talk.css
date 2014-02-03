@@ -3,6 +3,10 @@ h1.first-slide {
   font-size: 3.5em;
 }
 
+.reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+  text-transform: none;
+}
+
 div.caption {
   font-size: 0.7em;
   margin-bottom: 0;
